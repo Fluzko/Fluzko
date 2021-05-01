@@ -28,9 +28,9 @@ I make **🌐 Website and 📱Mobile apps** for a living.
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-<a href= "mail:fluzko@gmail.com"><img src="./images/email.png"/></a>
-<a href= "https://www.linkedin.com/in/facundo-luzko/"><img src="./images/linkedin.png" style="margin: 0 10px"/></a>
-<a href= "https://syntax.com.ar"><img src="./images/web.png"/></a>
+<a href= "mail:fluzko@gmail.com" height="30" width="30" target="_blank"><img src="./images/email.png"/></a>
+<a href= "https://www.linkedin.com/in/facundo-luzko/" height="30" width="30" target="_blank"><img src="./images/linkedin.png"/></a>
+<a href= "https://syntax.com.ar" height="30" width="30" target="_blank"><img src="./images/web.png"/></a>
 </p>
 </p>
 
