@@ -1,7 +1,6 @@
 # Hello there 👋
 
 ![]("https://github.com/Fluzko/Fluzko/tree/main/images/1.jpg")
-<br>
 
 I make **🌐 Website and 📱Mobile apps** for a living.    
 
