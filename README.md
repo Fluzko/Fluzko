@@ -1,13 +1,6 @@
 # Hello there 👋
 
-<div style="
-text-align:center
-width:100px;
-height:250px;
-background-image:url('./images/cerro-torre.png');
-background-size:cover
-">
-</div>
+![]("https://github.com/Fluzko/Fluzko/tree/main/images/1.jpg")
 <br>
 
 I make **🌐 Website and 📱Mobile apps** for a living.    
