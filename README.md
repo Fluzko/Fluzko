@@ -5,7 +5,7 @@
 I make **🌐 Website and 📱Mobile apps** for a living.    
 
 * 🧐   Interested in **full stack**. Recent focus on backend.
-* 💼   **Javascript** Fullstack DEVeloper at Onready.
+* 💼   **Javascript** Fullstack DEVeloper at ModusAgency.
 * 💼   Freelance web design at **Syntax**.
 * 🎓   Systems Engineering student at **UTN FRBA** (60%).
 * 🌱   Currently learning **Golang**.
