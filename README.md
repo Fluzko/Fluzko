@@ -1,5 +1,5 @@
 
-<img src="./logo.png"/>
+<img src="./Facundo Luzko.png"/>
 
 <div align="center">
     <h2>About me</h2>
