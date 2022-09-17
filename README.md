@@ -1,31 +1,25 @@
-# Hello there 👋
 
-![]("https://github.com/Fluzko/Fluzko/tree/main/images/1.jpg")
+<img src="./logo.jpg"/>
 
-I make **🌐 Website and 📱Mobile apps** for a living.    
+<div align="center">
+    <h2>About me</h2>
+    <a href="https://www.linkedin.com/in/facundo-luzko/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <a href="mailto:fluzko@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+    </a>
+</div>
 
-* 🧐   Interested in **full stack**. Recent focus on backend.
-* 💼   **Javascript** Fullstack DEVeloper at ModusAgency.
-* 💼   Freelance web design at **Syntax**.
-* 🎓   Systems Engineering student at **UTN FRBA** (60%).
-* 🌱   Currently learning **Golang**.
-* 📚   I like **Javascript**, **Python** and **Go**.
-* 💻   With **4 years** doing web design and **3 years** of developement 
-* ⛵   I love traveling and mountain sports like mountainbike, snowboarding and trekking.
-
-
-  
-<hr>
-<p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
-
-<p align="center">
-<a href= "mail:fluzko@gmail.com" height="30" width="30" target="_blank"><img src="./images/email.png"/></a>
-<a href= "https://www.linkedin.com/in/facundo-luzko/" height="30" width="30" target="_blank"><img src="./images/linkedin.png"/></a>
-<a href= "https://syntax.com.ar" height="30" width="30" target="_blank"><img src="./images/web.png"/></a>
-</p>
-</p>
-
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Fluzko.Fluzko" alt="visitor badge"/>       
-</p>
+<div align="center">
+<h2>Skills</h2>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E " />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+    <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white " />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
