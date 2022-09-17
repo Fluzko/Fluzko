@@ -1,5 +1,5 @@
 
-<img src="./logo.jpg"/>
+<img src="./logo.png"/>
 
 <div align="center">
     <h2>About me</h2>
