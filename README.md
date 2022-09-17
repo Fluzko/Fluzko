@@ -1,8 +1,7 @@
 <div align="center">
     <img src="./Facundo Luzko.png"/>
-</div
-
-
+</div>
+    
 <div align="center">
     <h2>About me</h2>
     <a href="https://www.linkedin.com/in/facundo-luzko/">
